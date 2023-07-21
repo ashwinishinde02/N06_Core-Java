@@ -10,9 +10,9 @@ public class IncrementDerementOperator {
 		System.out.println(y); 
 		System.out.println("Result2");
 		int res2=x-- + --y;
-		System.out.println(res2);
-		System.out.println(x); 
-		System.out.println(y);
+		System.out.println(res2); //24 + 6//30
+		System.out.println(x); //23
+		System.out.println(y); //6
 	}
 
 }
