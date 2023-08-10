@@ -1,0 +1,1 @@
+package orh.tnsif.uncheckedexception;
